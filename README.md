@@ -1,7 +1,5 @@
 <img src="Banner.jpg" alt="Banner">
 
-
-
 # 💫 About Me:
 🔭 I’m currently working on enhancing my skills in Full Stack Development.<br>👯 I’m looking to collaborate on exciting web development projects with other amazing developers.<br>🌱 I’m currently learning ReactJS, PHP.<br>👨‍💻 Explore my projects showcased at @Yash926.<br>🥅 Goal in life: To accomplish something worthwhile.<br><br>
 
