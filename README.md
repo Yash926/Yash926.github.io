@@ -1,4 +1,4 @@
-<img src="images/Banner.jpg" alt="Banner">
+<img src="Banner.jpg" alt="Banner">
 
 
 
