@@ -1,4 +1,5 @@
-<img src="https://github.com/Yash926/Yash926/blob/main/Banner.jpg">
+<img src="images/Banner.jpg" alt="Banner">
+
 
 
 # 💫 About Me:
