@@ -17,6 +17,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yash926&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+## 🎖️ HacktoberFest Badges
+[![An image of @yash926's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yash926)](https://holopin.io/@yash926)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
