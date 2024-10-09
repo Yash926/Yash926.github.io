@@ -1,6 +1,8 @@
 <img src="https://github.com/Yash926/Yash926/blob/main/Banner.jpg">
+
+
 # 💫 About Me:
-🔭 I’m currently working on enhancing my skills in Full Stack Development.<br>👯 I’m looking to collaborate on exciting web development projects with other amazing developers.<br>🌱 I’m currently learning ReactJS, PHP.<br>👨‍💻 Explore my projects showcased at @Yash926.<br>🥅 Goal in life: To accomplish something worthwhile.<br><br><br>
+🔭 I’m currently working on enhancing my skills in Full Stack Development.<br>👯 I’m looking to collaborate on exciting web development projects with other amazing developers.<br>🌱 I’m currently learning ReactJS, PHP.<br>👨‍💻 Explore my projects showcased at @Yash926.<br>🥅 Goal in life: To accomplish something worthwhile.<br><br>
 
 
 ## 🌐 Socials:
