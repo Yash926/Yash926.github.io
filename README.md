@@ -34,7 +34,7 @@
      <img src="https://holopin.me/yash926">
 
 
-
+###
 <h2>Connect with me:</h2>    
 <div align="left">
   <a href="https://www.linkedin.com/in/yash-tripathi-30a382256/" target="_blank">
